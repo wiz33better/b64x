@@ -15,7 +15,7 @@
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/n0voidX/b64x.git
+git clone https://github.com/wiz33better/b64x.git
 
 cd b64x
 ```
